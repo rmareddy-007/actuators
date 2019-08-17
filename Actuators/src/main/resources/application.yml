@@ -1,0 +1,5 @@
+spring:
+   application:
+      name: Actuators
+Server:
+   port: 8999
